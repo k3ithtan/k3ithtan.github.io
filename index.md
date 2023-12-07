@@ -1,6 +1,6 @@
 # Keith Tan's Portfolio
 
-Hello my name is Keith Tan and I plan on graduating in 2025
+Hello my name is Keith Tan, I am attending Cal State Fullerton and I am a third year. I plan to graduate in 2025. 
 
 # Favorite Labs
 
